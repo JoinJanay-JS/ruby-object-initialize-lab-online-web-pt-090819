@@ -5,4 +5,3 @@ end
 end 
 
 fido = Dog.breed("mutt")
-fido.breed
