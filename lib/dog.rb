@@ -3,3 +3,5 @@ class Dog
    @breed = breed
 end 
 end 
+
+Dog.breed = "mutt"
