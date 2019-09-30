@@ -30,4 +30,4 @@ end
 
 fido = Dog.name 
 Dog.breed
-Dog.name 
+Fido.name 
