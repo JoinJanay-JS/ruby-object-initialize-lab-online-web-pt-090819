@@ -28,5 +28,5 @@ end
 
 
 fido = Dog.name 
-Dog.breed
+Fido.breed
 Fido.name 
