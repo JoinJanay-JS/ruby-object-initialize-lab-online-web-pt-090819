@@ -25,8 +25,3 @@ class Dog
    @name = name
   end
 end
-
-
-fido = Dog.name 
-Fido.breed
-Fido.name 
