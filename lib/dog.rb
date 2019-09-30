@@ -4,5 +4,5 @@ class Dog
 end 
 end 
 
-fido = Dog.new("mutt")
+fido = Dog.breed("mutt")
 fido.breed
