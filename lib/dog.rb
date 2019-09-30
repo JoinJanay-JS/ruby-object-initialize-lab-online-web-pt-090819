@@ -1,4 +1,7 @@
+require "pry" 
+
 class Dog
+  binding.pry 
   def initialize(breed)
     @breed = breed
   end
